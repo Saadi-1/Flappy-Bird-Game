@@ -20,9 +20,6 @@ Flappy Bird is a classic arcade-style game where the player controls a bird, att
 ## Controls
 - **Spacebar** or **Mouse Click**: Flap wings to ascend.
 
-## Demo
-[Play the Game](https://example.com/flappybird)
-
 ## Credits
 This game is inspired by the original Flappy Bird game created by Dong Nguyen.
 
