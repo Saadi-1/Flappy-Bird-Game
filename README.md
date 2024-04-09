@@ -1,6 +1,6 @@
 # Flappy Bird
 
-![Flappy Bird](fb.png)
+![Flappy Bird](fb.jpeg)
 
 ## Description
 Flappy Bird is a classic arcade-style game where the player controls a bird, attempting to fly between columns of green pipes without hitting them. The bird automatically descends and only ascends when the player taps the screen or presses a key. The game gets progressively more difficult as the bird travels farther, with the pipes spaced closer together.
